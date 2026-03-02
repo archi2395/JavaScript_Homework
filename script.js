@@ -1,0 +1,10 @@
+console.log(typeof "Hello");      
+console.log(typeof 2026);          
+console.log(typeof true);         
+console.log(typeof undefined);    
+console.log(typeof null);         
+console.log(typeof Symbol("id"));     
+console.log(typeof 100n);          
+console.log(typeof {age:100});           
+console.log(typeof [1,2,3]);           
+console.log(typeof function(a,b){return a+b}); 
